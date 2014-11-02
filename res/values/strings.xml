@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FFT</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_favorite">Favorite</string>
+    <string name="title_activity_recept_view">ReceptView</string>
+    <string name="title_activity_all_recipes">AllRecipes</string>
+
+</resources>
